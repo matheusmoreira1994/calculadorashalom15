@@ -14,6 +14,6 @@ function calcular() {
     document.getElementById("cincoPorcento").textContent = cincoPorcento;
     document.getElementById("soma").textContent = soma;
 }
- function irparasite() {
-        window.open = "https://www.google.com/search?q=site%3Awww.terra.com.br";
+function irparasite() {
+    window.location.href = "https://comshalom.org/comunhaodebens/";
  }
